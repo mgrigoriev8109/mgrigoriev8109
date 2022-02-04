@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**mgrigoriev8109/mgrigoriev8109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+My name is Mikhail. I'm a learner working through The [Odin Project](https://www.theodinproject.com/).
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
