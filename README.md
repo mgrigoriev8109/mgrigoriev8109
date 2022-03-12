@@ -1,6 +1,3 @@
-## Controlling my own destiny thanks to Open Source
-
-
 <a href="mailto:mikhailgrigoriev92@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/M-Gmail-red" /></a>
 <a href="https://www.linkedin.com/in/mikhail-grigoriev-826b4421a/"><img alt="LinkedIn" src="https://img.shields.io/badge/in-Linkdin-blue" /></a>
 <br><br>
