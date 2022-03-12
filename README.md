@@ -20,6 +20,6 @@ I spend most of my time with my family, or running (more accurately jogging hold
   
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgrigoriev8109&hide=stars&show_icons=true&theme=vue&include_all_commits=true)
 
-[![Mikhail's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrigoriev8109&layout=compact&theme=vue&langs_count=6)](https://github.com/thatblindgeye/github-readme-stats)
+[![Mikhail's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgrigoriev8109&layout=compact&theme=vue&langs_count=6)](https://github.com/mgrigoriev8109/github-readme-stats)
   
 </div>
