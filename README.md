@@ -13,7 +13,7 @@ While not creating full-stack Rails projects I volunteer my time helping others 
 
 ### Outside of Coding...
 
-I spend most of my jogging holding a stroller, or hanging out with my family. I'm currently training for the Chicago Marathon, and plan to run it in October!
+I spend most of my time with my family, or running (more accurately jogging holding onto a stroller). I'm currently training for the Chicago Marathon, and plan to run it in October!
 
 ---
 <div align="center">
