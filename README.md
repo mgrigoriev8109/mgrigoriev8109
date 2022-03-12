@@ -5,7 +5,7 @@
 
 I'm a self-taught full-stack developer currently pursuing a career change into software development. Delving deeper and deeper into the world of programming and open source development I've found it aligned with so many of my passions. 
 
-Researching and absorbing new tools and concepts. Teaching others how to problem solve by guiding them to finding the answer on their own. Problem solving myself through a constantly expanding debugging toolset. Creating maintainable and bulletproof projects through unit testing and integration testing. Collaborating with others and working as part of a team. I'm being sincere when I say that software development is amazing, and i'm excited to become a software developer. 
+Researching and absorbing new tools and concepts. Problem solving myself through a constantly expanding debugging toolset. Creating maintainable and bulletproof projects through unit testing and integration testing. Collaborating with others and working as part of a team. Teaching others how to problem solve by guiding them to finding the answer on their own. I'm being sincere when I say that software development is amazing, and I'm excited to become a software developer. 
 
 While not creating full-stack Rails projects I volunteer my time helping others learn programming, making open source contributions, and acting as a Moderator for the [The Odin Project](https://www.theodinproject.com/).
 
