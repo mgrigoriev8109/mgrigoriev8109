@@ -11,6 +11,17 @@ While not creating full-stack Rails projects I volunteer my time helping others 
 
 ---
 
+### Technologies & Tools
+![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=success)
+![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=success)
+![RSpec](https://img.shields.io/badge/-RSpec-000?style=flat&logoColor=white&color=success)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=success)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=success)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=success)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
+
+---
+
 ### Outside of Coding...
 
 I'm training for the Chicago Marathon, and plan to run it in October! If I'm not running you can find me spending time with my family, cooking for fun in the kitchen, or slowly making my way through all of the MCU movies. 
