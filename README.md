@@ -5,7 +5,7 @@
 
 I'm Mikhail, a self-taught full-stack developer pursuing a career change into software development. Delving deeper and deeper into the world of programming and open source development I've found it aligned with so many of my passions. 
 
-Researching and absorbing new tools and concepts. Problem solving myself through a constantly expanding debugging toolset. Creating maintainable and bulletproof projects through unit testing, integration testing, and test driven development. Collaborating with others and working as part of a team. Teaching others how to problem solve. Software development is an amazing field, and I'm excited to find the right team of people to work with. 
+Researching and absorbing new tools and concepts. Problem solving using a constantly expanding debugging toolset. Creating maintainable and bulletproof projects through unit testing, integration testing, and test driven development. Collaborating with others and working as part of a team. Teaching others how to problem solve. Software development is an amazing field, and I'm excited to find the right team of people to work with. 
 
 ---
 ### Technologies & Tools
