@@ -4,6 +4,7 @@
 <h2 align="center">Hi there, I'm Mikhail</h2>
 
 ### Technologies & Tools
+
 <div align="center">
   <div>
     ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=success)
@@ -15,6 +16,7 @@
     ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
   </div>
 </div>
+
 ---
 ### Volunteering
 
