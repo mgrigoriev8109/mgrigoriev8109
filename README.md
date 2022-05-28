@@ -4,17 +4,17 @@
 <h2 align="center">Hi there, I'm Mikhail</h2>
 
 ### Technologies & Tools
-
 <div align="center">
-![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=success)
-![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=success)
-![RSpec](https://img.shields.io/badge/-RSpec-000?style=flat&logoColor=white&color=success)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=success)
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=success)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=success)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
+  <div>
+    ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=success)
+    ![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=success)
+    ![RSpec](https://img.shields.io/badge/-RSpec-000?style=flat&logoColor=white&color=success)
+    ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=success)
+    ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=white&color=success)
+    ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=success)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
+  </div>
 </div>
-
 ---
 ### Volunteering
 
