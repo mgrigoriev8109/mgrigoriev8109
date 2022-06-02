@@ -3,8 +3,6 @@
 <br><br>
 <h2 align="center">Hi there, I'm Mikhail</h2>
 
-### Technologies & Tools
-
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=success)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=success)
 ![RSpec](https://img.shields.io/badge/-RSpec-000?style=flat&logoColor=white&color=success)
@@ -14,14 +12,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
 
 ---
-### Volunteering
-
-While not creating full-stack Rails projects I volunteer my time mentoring others learning web development, reading books on programming, or making open source contributions.
+While not creating full-stack Rails projects I volunteer my time mentoring others learning web development, reading books on programming, or making open source contributions in both [The Odin Project](https://github.com/TheOdinProject/curriculum) and the [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork).
 
 ---
 ### Outside of Coding...
 
-I'm training for the Chicago Marathon, and plan to run it in October! If I'm not running you can find me spending time with my family, cooking for fun in the kitchen, or reading old fantasy books. 
+I'm training for the Chicago Marathon, and plan to run it in October! If I'm not running you can find me spending time with my family, cooking for in the kitchen, or reading fantasy and science fiction. 
 
 ---
 <div align="center">
