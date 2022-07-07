@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=success)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
 
-While not creating full-stack Rails projects I volunteer my time mentoring others learning web development, reading books on programming, or making open source contributions in both [The Odin Project](https://github.com/TheOdinProject/curriculum) and the [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork).
+While not working as an Apprentice at Banno I volunteer my time mentoring others learning web development, reading books on programming, or making open source contributions in both [The Odin Project](https://github.com/TheOdinProject/curriculum) and the [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork).
 
 ---
 ### Outside of Coding...
