@@ -11,12 +11,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white&color=success)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
 
-While not working as an Apprentice at Banno I volunteer my time mentoring others learning web development, reading books on programming, or making open source contributions in both [The Odin Project](https://github.com/TheOdinProject/curriculum) and the [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork).
+While not working I volunteer my time mentoring others looking to break into web development, reading books on programming, or making open source contributions in both [The Odin Project](https://github.com/TheOdinProject/curriculum) and the [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork).
 
 ---
 ### Outside of Coding...
 
-I'm training for the Chicago Marathon, and plan to run it in October! If I'm not running you can find me spending time with my family, cooking for in the kitchen, or reading fantasy and science fiction. 
+I'm love reading and watching great stories. Just finished watching Station Eleven, and currently reading Children of TIme by Tchaikovsky. 
 
 ---
 <div align="center">
