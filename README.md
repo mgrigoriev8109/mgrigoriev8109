@@ -1,7 +1,7 @@
 <a href="mailto:mikhailgrigoriev92@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/M-Gmail-red" /></a>
 <a href="https://www.linkedin.com/in/mikhail-grigoriev-826b4421a/"><img alt="LinkedIn" src="https://img.shields.io/badge/in-Linkdin-blue" /></a>
 <br><br>
-<h2 align="center">Ahoy. My name is Mikhail. I work as a frontend developer at Jack Henry, and in my free time tinker with Ruby and RoR.</h2>
+<h3 align="center">Ahoy. Mikhail. Frontend javascript developer. Ruby tinkerer.</h2>
 
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=success)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=success)
