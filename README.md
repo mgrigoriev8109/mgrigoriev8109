@@ -15,10 +15,10 @@
 <p>Frontend JavaScript developer with 2 years of professional experience. Fullstack Ruby tinkerer.
 
 <h3>Skills:</h3>
-Languages: ruby, javascript, typescript, css, html, sql
-Frontend: angular, typescript, tailwind, storybook, datadog, WCAG/ARIA
-Backend: rails, REST, postgres, postman
-Tool: git, github, vscode, webpack, yarn, npm, figma
+- Languages: ruby, javascript, typescript, css, html, sql
+- Frontend: angular, typescript, tailwind, storybook, datadog, WCAG/ARIA
+- Backend: rails, REST, postgres, postman
+- Tool: git, github, vscode, webpack, yarn, npm, figma
 
 <h3>Personal projects:</h3>
 Personal projects:
