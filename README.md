@@ -11,4 +11,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
 
 
-<h3 align="left">Ahoy. Mikhail. Frontend javascript developer. Ruby tinkerer.</h2>
+<h3 align="left">Mikhail. Frontend javascript developer. Backend ruby tinkerer.</h2>
