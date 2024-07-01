@@ -14,15 +14,16 @@
 <h3 align="left">Mikhail Grigoriev</h3>
 <p>Frontend JavaScript developer with 2 years of professional experience. Fullstack Ruby tinkerer.
 
-Skills:
+<h3>Skills:</h3>
 Languages: ruby, javascript, typescript, css, html, sql
 Frontend: angular, typescript, tailwind, storybook, datadog, WCAG/ARIA
 Backend: rails, REST, postgres, postman
 Tool: git, github, vscode, webpack, yarn, npm, figma
 
+<h3>Personal projects:</h3>
 Personal projects:
 chess - live / README
 open dev book - live / README=
 
-open source contributions
-The Odin Project: =.
+<h3>Open source contributions:</h3>
+The Odin Project: 
