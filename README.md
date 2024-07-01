@@ -1,8 +1,7 @@
 <a href="mailto:mikhailgrigoriev92@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/M-Gmail-red" /></a>
 <a href="https://www.linkedin.com/in/mikhail-grigoriev-826b4421a/"><img alt="LinkedIn" src="https://img.shields.io/badge/in-Linkdin-blue" /></a>
 <br><br>
-<h3 align="center">Ahoy. Mikhail. Frontend javascript developer. Ruby tinkerer.</h2>
-
+<h3 align="left">Ahoy. Mikhail. Frontend javascript developer. Ruby tinkerer.</h2>
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=success)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=success)
 ![RSpec](https://img.shields.io/badge/-RSpec-000?style=flat&logoColor=white&color=success)
