@@ -11,6 +11,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=white&logo=javascript&color=success)
 
 
-<h3 align="left">Mikhail</h3>
-rontend JavaScript developer
-fullstack Ruby tinkerer
+<h3 align="left">Mikhail Grigoriev</h3>
+<p>Frontend JavaScript developer with 2 years of professional experience. Fullstack Ruby tinkerer.
+
+Skills:
+Languages: ruby, javascript, typescript, css, html, sql
+Frontend: angular, typescript, tailwind, storybook, datadog, WCAG/ARIA
+Backend: rails, REST, postgres, postman
+Tool: git, github, vscode, webpack, yarn, npm, figma
+
+Personal projects:
+chess - live / README
+open dev book - live / README=
+
+open source contributions
+The Odin Project: =.
