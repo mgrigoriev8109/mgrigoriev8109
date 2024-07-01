@@ -12,5 +12,5 @@
 
 
 <h3 align="left">Mikhail</h3>
-<h3 align="left">frontend JavaScript developer</h3>
-<h3 align="left">fullstack Ruby tinkerer</h3>
+rontend JavaScript developer
+fullstack Ruby tinkerer
